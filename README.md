@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/zahraatayyar/">
@@ -15,7 +15,7 @@
   </h1>
   
   <div align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0N2U2NmZmNGUwNGQ4ZjRlNWYwMGFjNTQzNzcyMzFhOTA2NDViMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/sQ1HZe2QIQr7MBVACd/giphy.gif" width="400"/>
+      <img          src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0N2U2NmZmNGUwNGQ4ZjRlNWYwMGFjNTQzNzcyMzFhOTA2NDViMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/sQ1HZe2QIQr7MBVACd/giphy.gif" width="400"/>
   </div>
 </div>
   
@@ -31,6 +31,11 @@ I am a junior software developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I do Full-stack React projects and CodeWars.
 
+- :art: I have a creative streak, check out my artwork:
+    <a href="https://www.linkedin.com/in/zahraatayyar/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge" height="20"/>
+    </a>
+    
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraatayyar/)
 
 ---
