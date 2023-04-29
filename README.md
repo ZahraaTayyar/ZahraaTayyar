@@ -29,9 +29,9 @@ I am a junior software developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :classical_building: I have a BA in Architecture.
 
-- :zap: In my free time, I do Full-stack react projects and CodeWars.
+- :zap: In my free time, I do Full-stack React projects and CodeWars.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraatayyar/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraatayyar/)
 
 ---
 
