@@ -15,7 +15,7 @@
   </h1>
   
   <div align="center">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+      <img src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" width="600" height="300"/>
   </div>
 </div>
   
@@ -31,4 +31,4 @@ I am studying to become a full-stack developer <img src="https://media.giphy.com
 
 - :zap: In my free time, I do react projects and CodeWars.
 
-- :mailbox:How to reach me: [![[Linkedin Badge](https://www.linkedin.com/in/zahraatayyar/)](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/zahraatayyar/))
+- :mailbox:How to reach me: [https://www.linkedin.com/in/zahraatayyar/](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/zahraatayyar/))
