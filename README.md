@@ -32,7 +32,7 @@ I am a junior software developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I do Full-stack React projects and CodeWars.
 
 - :art: I have a creative streak, check out my artwork:
-    <a href="https://www.linkedin.com/in/zahraatayyar/">
+    <a href="https://www.instagram.com/zahraatayyar/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge" height="20"/>
     </a>
     
