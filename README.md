@@ -25,11 +25,11 @@
 
 I am a junior software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Full-stack trainee at CodeYourFuture <img src="https://codeyourfuture.io/wp-content/uploads/2019/03/cyf_brand.png" width="100"/>
-
-- :classical_building: I have a BA in Architecture.
+- :telescope: Full time Web developer at InvestCloud <img src="https://mma.prnewswire.com/media/491234/InvestCloud_Inc_Logo.jpg?p=publish" width="100"/>
 
 - :zap: In my free time, I do Full-stack React projects and CodeWars.
+
+- :classical_building: I have a BA in Architecture.
 
 - :art: I have a creative streak, check out my artwork:
     <a href="https://www.instagram.com/zahraatayyar/">
